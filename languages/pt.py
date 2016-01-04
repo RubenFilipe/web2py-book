@@ -18,7 +18,7 @@
 'Author Reference Auth User': 'Author Reference Auth User',
 'Author Reference Auth User.username': 'Author Reference Auth User.username',
 'Available Databases and Tables': 'bases de dados e tabelas disponíveis',
-'Buy this book': 'Buy this book',
+'Buy this book': 'Comprar Livro',
 'cache': 'cache',
 'Cache': 'Cache',
 'Cache Keys': 'Cache Keys',
